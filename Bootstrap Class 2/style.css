@@ -1,0 +1,11 @@
+.ImgSection img{
+    height: 200px;
+    border-radius: 10px;
+
+}
+.ImgSection{
+    margin-bottom: 100px;
+}
+/* .col-4{
+    box-shadow: 5px 5px 10px gray;
+} */
